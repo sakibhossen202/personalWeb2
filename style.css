@@ -1,11 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: rgb(180, 209, 236);
 }
 h1{
     font-size: 50px;
 }
 h2{
-    font-size: 40px;
+    font-size: 35px;
 }
 .blue-highlighter{
     color: rgb(96, 96, 240);
