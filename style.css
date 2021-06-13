@@ -4,6 +4,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .blue-highlighter{
     color: rgb(96, 96, 240);
 }
@@ -19,7 +22,6 @@ h1{
     font-weight: 700;
 }
 .welcome-section{
-    border: 1px solid red;
     height: 600px;
     margin-bottom:100px ;
 }
@@ -33,7 +35,6 @@ h1{
     width:100%;
 }
 .about-section{
-    border: 1px solid red;
     height: 600px;
 
     
@@ -45,6 +46,7 @@ h1{
 }
 .project{
     width: 25%;
+    height: 550px;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
@@ -52,4 +54,26 @@ h1{
 }
 .project img{
     width: 100%;
+}
+.quiry-section{
+    height: 200px;
+    margin-top: 10%;
+}
+.quiry-section img{
+    width: 50%;
+}
+.placement{
+    text-align: center;
+}
+.icon img{ 
+    width: 3%;
+}
+.connect-section{
+    font-size: 35px;
+}
+.quiry-text-highlighter{
+    color: rgb(52, 52, 90);
+}
+.quiry-text{
+    margin-top: 5%;
 }
