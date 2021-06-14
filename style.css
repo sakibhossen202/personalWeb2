@@ -63,6 +63,30 @@ h2{
 .quiry-section img{
     width: 50%;
 }
+.quiry-img{
+    width: 55%;
+    margin: 0 auto;
+    padding: 2%;
+    background-image: url("icons/Group_33094_1.png");
+    height:150px;
+    background-size: 100% 100%;
+}
+
+.inquiry-text{
+    width: 45%;
+    float: left;
+}
+.letchat{
+    margin-left:270px;
+    padding-top: 76px;
+}
+.inquity-font{
+    font-size: 45px;
+    color: white;
+    padding-left: 20px;
+    padding-top: 35px;
+}
+
 .placement{
     text-align: center;
 }
